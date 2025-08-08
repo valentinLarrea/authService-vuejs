@@ -7,11 +7,14 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: "#103754",
-        secondary: "97d3cb",
-        text: "#f17961",
-        accent: "fece8c",
-      }
+        primary: "#1c0113",
+        secondary: "#97d3cb",
+        text: "#f03c02",
+        accent: "#fece8c",
+      },
+      fontFamily: {
+        raleway: ["Raleway", "sans-serif"],
+      },
     },
   },
   plugins: [],
